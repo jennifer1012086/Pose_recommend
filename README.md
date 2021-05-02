@@ -7,9 +7,9 @@ App有兩大功能：
 
 尚未解決的問題：
 1. 同時使用系統時可能會顯示錯照片，這是照片儲存的設定導致
-
-這邊存的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
-
+<br>
+此處的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
+<br>
 以下為App截圖：
 
 <table>
