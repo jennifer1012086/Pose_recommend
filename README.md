@@ -1,7 +1,6 @@
 # pose-recommand-App
 
 - 此處的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
-<br>
 
 這是一個姿勢推薦的App <br>
 App有兩大功能：
