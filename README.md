@@ -14,15 +14,15 @@ App有兩大功能：
 
 <table>
   <tr>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/home.jpg"></td>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/home1.jpg"></td>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/1.jpg"></td>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/11.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/home.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/home1.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/1.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/11.jpg"></td>
   </tr>
   <tr>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/2.jpg"></td>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/22.jpg"></td>
-    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/3.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/2.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/22.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/picture/3.jpg"></td>
     <td></td>
   </tr>
 </table>
