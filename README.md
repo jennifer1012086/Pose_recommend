@@ -1,5 +1,8 @@
 # pose-recommand-App
 
+- 此處的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
+<br>
+
 這是一個姿勢推薦的App <br>
 App有兩大功能：
 1. 依據使用者選取的性別、場景、姿勢隨機從圖片庫中挑選5張符合照片顯示在螢幕供檢視與下載
@@ -7,9 +10,7 @@ App有兩大功能：
 
 尚未解決的問題：
 1. 同時使用系統時可能會顯示錯照片，這是照片儲存的設定導致
-<br>
-此處的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
-<br>
+
 以下為App截圖：
 
 <table>
