@@ -11,3 +11,18 @@ App有兩大功能：
 這邊存的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
 
 以下為App截圖：
+
+<table>
+  <tr>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/home.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/home1.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/1.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/11.jpg"></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/2.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/22.jpg"></td>
+    <td><img src="https://github.com/kelly-y/pose-recommand-App/blob/master/3.jpg"></td>
+    <td></td>
+  </tr>
+</table>
