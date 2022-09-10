@@ -1,4 +1,4 @@
-# pose-recommand-App
+# pose-recommend-App
 
 - 此處的程式碼是Server中用於處理HTTP Request的php以及進行相似度運算和合成的python
 
